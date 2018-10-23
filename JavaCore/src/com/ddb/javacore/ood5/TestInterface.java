@@ -1,7 +1,7 @@
 package com.ddb.javacore.ood5;
 
 public class TestInterface implements INoteBook {
-
+    //test
 	public void usePs() {
 		System.out.println("我是实现了INoteBook接口，我可以使用PS的修图软件");
 		// TODO Auto-generated method stub
