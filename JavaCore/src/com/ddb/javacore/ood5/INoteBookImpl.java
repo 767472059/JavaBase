@@ -1,7 +1,7 @@
 package com.ddb.javacore.ood5;
 
 public class INoteBookImpl implements INoteBook {
-
+    //test
 	public void startOS() {
 		System.out.println("我是另一个INoteBook接口的实现类，我正在启动系统！");
 
