@@ -50,7 +50,6 @@ public class Human implements Serializable, Comparable<Human> {
 		this.name = name;
 	}
 
-	@Override
 	public int compareTo(Human o) {
 
 		if (this.getAge().intValue() == o.getAge().intValue()) {
